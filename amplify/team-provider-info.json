@@ -10,6 +10,14 @@
             "StackName": "amplify-tsproject-prod-152435",
             "StackId": "arn:aws:cloudformation:ap-northeast-1:695674763590:stack/amplify-tsproject-prod-152435/031fbf30-7186-11ea-87c1-0ac3b391d020",
             "AmplifyAppId": "d2vh6osphexy55"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2vh6osphexy55",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
