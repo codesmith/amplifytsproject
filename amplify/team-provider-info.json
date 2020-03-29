@@ -17,6 +17,9 @@
                     "appId": "d2vh6osphexy55",
                     "type": "cicd"
                 }
+            },
+            "auth": {
+                "tsproject1cc0f2f5": {}
             }
         }
     }
